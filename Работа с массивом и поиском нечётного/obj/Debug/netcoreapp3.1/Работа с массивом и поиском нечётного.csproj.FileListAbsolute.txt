@@ -1,0 +1,13 @@
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\obj\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.csprojAssemblyReference.cache
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\obj\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.AssemblyInfoInputs.cache
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\obj\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.AssemblyInfo.cs
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\obj\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.csproj.CoreCompileInputs.cache
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\bin\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.exe
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\bin\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.deps.json
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\bin\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.runtimeconfig.json
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\bin\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.runtimeconfig.dev.json
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\bin\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.dll
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\bin\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.pdb
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\obj\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.dll
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\obj\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.pdb
+C:\Users\asoon\source\repos\Работа с массивом и поиском нечётного\Работа с массивом и поиском нечётного\obj\Debug\netcoreapp3.1\Работа с массивом и поиском нечётного.genruntimeconfig.cache
